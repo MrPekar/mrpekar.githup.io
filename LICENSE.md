@@ -1,17 +1,14 @@
 <html>
 <head>
-<title>MrPekar</title>
+<title>Log In</title>
 </head>
 
-<div class="main"
-<body>
-<h1>
-A website about me.
-</h1>
-<p>
-<a href="microsoft.com">Here</a> is a link.
-</p>
-</body>
-</div>
+<h3 align="center">
+Enter you usernamen and password.
+</h3>
 
-</html>
+<form align="center" action="#" method="GET">
+<input type="text" name="Username">
+<input type="password" name="Password">
+<input type="submit" value="Submit">
+</form>
