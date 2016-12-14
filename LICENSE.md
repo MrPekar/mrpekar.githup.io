@@ -7,7 +7,7 @@
 Enter you usernamen and password.
 </h3>
 
-<form align="center" action="#" method="GET">
+<form action="#" method="GET">
 <input type="text" name="Username">
 <input type="password" name="Password">
 <input type="submit" value="Submit">
